@@ -1,0 +1,166 @@
+print ( "Herzlich Willkommen zu meinem selstgebauten Quiz, achte darauf, dass du alles gross schreibst!" )
+score = 0
+answer = input("In was setzt man die PC Komponenten rein?")
+
+if answer == "Gehäuse" :
+    score += 1
+    print ( " Das ist die richtige Antwort, super!")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+else:
+    print ("Leider hast du nicht die richtige Antwort genannt. Die richtige Antwort wäre gewesen: Bern")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+answer = input("Was ist die Farbe einer Banane?")
+
+if answer == "Gelb" :
+    score += 1
+    print ( " Das ist die richtige Antwort, super!")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+else:
+    print ("Leider hast du nicht die richtige Antwort genannt. Die richtige Antwort wäre gewesen: Bern")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+
+answer = input("Bei welcher Farbe der Ampel darf man NICHT über die Strasse laufen?")
+
+if answer == "Rot" :
+    score += 1
+    print ( " Das ist die richtige Antwort, super!")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+else:
+    print ("Leider hast du nicht die richtige Antwort genannt. Die richtige Antwort wäre gewesen: Bern")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+answer = input("Welches ist das beliebte Getränk mit schwarzer Flüssigkeit?")
+
+if answer == "Coca Cola" :
+    score += 1
+    print ( " Das ist die richtige Antwort, super!")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+else:
+    print ("Leider hast du nicht die richtige Antwort genannt. Die richtige Antwort wäre gewesen: Bern")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+answer = input("Welches ist das neueste und grösste Iphone?")
+
+if answer == "Iphone 12 Pro Max" :
+    score += 1
+    print ( " Das ist die richtige Antwort, super!")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+else:
+    print ("Leider hast du nicht die richtige Antwort genannt. Die richtige Antwort wäre gewesen: Bern")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+answer = input("Welchen PC Komponenten nennt man auch das Herz des Pc's?")
+
+if answer == "Prozessor" :
+    score += 1
+    print ( " Das ist die richtige Antwort, super!")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+else:
+    print ("Leider hast du nicht die richtige Antwort genannt. Die richtige Antwort wäre gewesen: Bern")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+answer = input("Welcher PC Komponent ist im Moment viel teurer als normalerweise?")
+
+if answer == "Grafikkarte" :
+    score += 1
+    print ( " Das ist die richtige Antwort, super!")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+else:
+    print ("Leider hast du nicht die richtige Antwort genannt. Die richtige Antwort wäre gewesen: Bern")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+answer = input("Auf welchen PC Komponent setzt man die Ram, die GPU und die CPU drauf?")
+
+if answer == "Mainboard" :
+    score += 1
+    print ( " Das ist die richtige Antwort, super!")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+else:
+    print ("Leider hast du nicht die richtige Antwort genannt. Die richtige Antwort wäre gewesen: Bern")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+answer = input("Wie nennt man das Gerät, wo man etwas ausrechnen kann?")
+
+if answer == "Rechner" :
+    score += 1
+    print ( " Das ist die richtige Antwort, super!")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+else:
+    print ("Leider hast du nicht die richtige Antwort genannt. Die richtige Antwort wäre gewesen: Bern")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+answer = input("Auf was werden die Schritte die man mit dem PC erledigt angezeigt?")
+
+if answer == "Monitor" :
+    score += 1
+    print ( " Das ist die richtige Antwort, super!")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+else:
+    print ("Leider hast du nicht die richtige Antwort genannt. Die richtige Antwort wäre gewesen: Bern")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+answer = input("Welches Tier hat den gleichen Namen wie das Gerät für die Steuerung?")
+
+if answer == "Maus" :
+    score += 1
+    print ( " Das ist die richtige Antwort, super!")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+else:
+    print ("Leider hast du nicht die richtige Antwort genannt. Die richtige Antwort wäre gewesen: Bern")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+answer = input("Was ist der englische Begriff für Tastatur?")
+
+if answer == "Keyboard" :
+    score += 1
+    print ( " Das ist die richtige Antwort, super!")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+else:
+    print ("Leider hast du nicht die richtige Antwort genannt. Die richtige Antwort wäre gewesen: Bern")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+answer = input("Wie viele Mitarbeiter hat die BKW?")
+
+if answer == "10250" :
+    score += 1
+    print ( " Das ist die richtige Antwort, super!")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+else:
+    print ("Leider hast du nicht die richtige Antwort genannt. Die richtige Antwort wäre gewesen: Bern")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+answer = input("Welches ist das neueste Samsung Galaxy Handy?")
+
+if answer == "Samsung Galaxy S21" :
+    score += 1
+    print ( " Das ist die richtige Antwort, super!")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+else:
+    print ("Leider hast du nicht die richtige Antwort genannt. Die richtige Antwort wäre gewesen: Bern")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+answer = input("Mit welchem PC Komponenten wird Bitcoin-Mining betrieben?")
+
+if answer == "Grafikkarte" :
+    score += 1
+    print ( " Das ist die richtige Antwort, super!")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
+
+else:
+    print ("Leider hast du nicht die richtige Antwort genannt. Die richtige Antwort wäre gewesen: Bern")
+    print: ("Deine aktuelle Punktzahl beträgt : " , score)
