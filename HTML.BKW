@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link href="style.css" rel="stylesheet">
+
+    <title> Handball</title>
+</head>
+
+<body>
+
+    <!--
+           As a link -->
+
+
+    <!-- As a heading -->
+    <nav class="navbar navbar-light bg-light">
+        <div class="container-fluid">
+            <span class="navbar-brand mb-0 h1"> Der eSportler Darrex über Handball</span>
+        </div>
+    </nav>
+    <div id="content">
+        <center>
+            <a href="https://www.instagram.com/darrexfn/" target="_blank">
+
+                <img id="profile" src="handball.webp" alt="">
+            </a>
+            <h1>Handball</h1>
+        </center>
+        <br />
+
+          
+</body>
+<footer>
+    <p> </p>
+
+
+</footer>
+</div>
+<div class="accordion" id="accordionExample">
+
+
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="headingTwo">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                aria-expanded="true" aria-controls="collapseTwo">
+                Was ist Handball und was ist die Herkunft??
+            </button>
+        </h2> 
+        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                Handball ist eine Sportart, welche in dem 20. Jahrhundert zum Leben erweckt wurde.
+                Der Oberturnwart Max Heiser, der aus Berlin kommt, bestimmte  am 29. Oktober 1917, 
+                dass das von ihm entwickelte Spiel, welches für Frauen gedacht war mit dem Namen 
+                Torball von nun an Handball heissen soll. Er legte direkt danach auch seine ersten richtigen
+                 Regeln ein. Sein Spiel war nahezu körperlos. Wenige Jahre später sollte das Spiel 
+                 attraktiver gestaltet werden. Zweikämpfe wurden zugelassen, der Ball verkleinert und 
+                 das Dribbeln eingeführt. Vom Fußball wurden weitere Parameter übernommen. Hier ein Fakt:
+                 Handball ist abgejürzt und bedeutet Hallenhandball. Früher haben es die Leute sogar 
+                 mehrheitlich Beachhandball und Feldhandball genannt!
+                 
+            </div>
+        </div>
+    </div>
+
+
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="headingThree">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                aria-expanded="true" aria-controls="collapseThree">
+                Ziel und Mannschaften
+            </button>
+            
+        </h2>
+        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                Handball ist eine Sportart, bei der zwei Mannschaften mit je sieben Spielern
+                 (sechs Feldspieler und ein Torwart) gegeneinander spielen. Das Ziel des Spiels
+                  besteht darin, den Handball in das gegnerische Tor zu werfen und damit ein
+                   Tor zu erzielen. Es gewinnt die Mannschaft, die nach Ablauf der Spielzeit
+                    (zweimal 30 Minuten; bei Jugendmannschaften kürzere Spielzeiten) die 
+                    meisten Tore erzielt hat.
+            </div>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="headingFour">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour"
+                aria-expanded="true" aria-controls="collapseFour">
+                Die Spielzeit
+            </button>
+        </h2>
+        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                Die offizielle Spielzeit für alle Mannschaften mit Spielern ab 16 Jahren und
+                 älter beträgt 2 × 30 Minuten mit einer Pause von 10 Minuten. Für Jugendmannschaften
+                  ist die Spielzeit wie folgt reduziert:
+
+                2 × 25 Minuten bei einem Alter von 13 bis 16 Jahren (C-Jugend und B-Jugend)
+                2 × 20 Minuten bei einem Alter von 8 bis 12 Jahren (E-Jugend und D-Jugend)
+                Der DHB hat diese Vorgaben in Altersklassen (A- bis E-Jugend) umgesetzt. Bei
+                 Turnieren werden teilweise kürzere Spielzeiten angesetzt.
+                
+                Bei Spielen, bei denen eine Entscheidung herbeigeführt werden muss
+                 (z. B. Turniere), gibt es bei Unentschieden maximal zwei Verlängerungen
+                  von jeweils 2 × 5 Minuten mit einer Minute Pause. Ist auch dann noch keine
+                  Entscheidung gefallen, wird diese mit einem Siebenmeterwerfen herbeigeführt.
+            </div>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="headingFive">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive"
+                aria-expanded="true" aria-controls="collapseFive">
+                Die Spielfläche
+            </button>
+        </h2>
+        <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                Die Spielfläche hat die Form eines Rechtecks
+                 (40 m × 20 m) und wird durch die Mittellinie
+                  in zwei Hälften geteilt. In der Mitte der 
+                  Schmalseiten befinden sich die Tore, vor 
+                  diesen die jeweiligen Torräume. Der Raum
+                   innerhalb der Spielfläche, aber außerhalb
+                    der Torräume, ist das Spielfeld.
+
+                Grundsätzlich gilt, dass alle Linien zu
+                 dem Raum gehören, den sie begrenzen. 
+                 Für die Mittellinie bedeutet dies, 
+                 dass sie zu beiden Spielfeldhälften gehört.
+                
+                Tore:
+                Die Tore sind drei Meter breit und zwei Meter 
+                hoch. Sie müssen fest im Boden oder an der 
+                dahinter liegenden Wand verankert sein. Der
+                 Torrahmen muss ein Rechteck sein.
+                
+                Die Torpfosten und die Querlatte, die sie
+                 verbindet, müssen aus dem gleichen Material
+                  (zum Beispiel Holz oder Leichtmetall) bestehen
+                   und ein quadratisches Profil von 8 cm 
+                   Kantenlänge aufweisen. Die Torpfosten und die
+                    Querlatte müssen auf den drei von der 
+                    Spielfläche einzusehenden Seiten mit zwei
+                     deutlich kontrastierenden Farben gestrichen
+                      sein, die sich ebenfalls deutlich vom
+                       Hintergrund abheben. Beide Tore müssen
+                        dieselben Farben aufweisen.
+                
+                Jedes Tor muss ein Netz haben, das sogenannte
+                 Tornetz. Dieses muss derart befestigt sein,
+                  dass ein ins Tor geworfener Ball normalerweise
+                   im Tor verbleibt oder nicht durch das Tor
+                    hindurchfliegen kann. Falls notwendig,
+                     kann – im Tor hinter der Torlinie –
+                      ein weiteres Netz angebracht werden.
+                
+                Torraum:
+                Vor den Toren befindet sich der Torraum.
+                 Er wird aus zwei Viertelkreisen mit einem
+                  Radius von sechs Metern um die jeweils innere
+                   hintere Ecke der Torpfosten und einer Linie
+                    parallel zur Torlinie in 6 m Abstand gebildet.
+                     Der Torraum darf von Feldspielern nicht
+                      betreten werden. Allerdings darf der
+                       Ball im Luftraum über dem Torraum
+                        gespielt werden, das heißt, ein
+                         Angreifer darf vor der Torraumlinie
+                          abspringen und aus kurzer Distanz auf
+                           das Tor werfen, wobei der Ball die Hand
+                            verlassen haben muss, bevor dieser Spieler
+                             den Boden berührt. Das Betreten des
+                              Torraums ohne Ball, um sich einen Vorteil
+                               zu verschaffen (z. B. eine bessere
+                                Anspielposition), führt zu Ballverlust
+                                 für die Mannschaft des Spielers. Die
+                                  Spielfortsetzung ist Abwurf.
+                
+                Ein Betreten des Kreises durch einen Abwehrspieler wird in
+                 der Regel nur dann geahndet, wenn er sich zum Zwecke der
+                  Abwehr einen Vorteil verschafft.
+                
+                Auswechselraum:
+                An einer Längsseite der Spielfläche befindet sich zu beiden
+                 Seiten der Mittellinie, außerhalb der Spielfläche, für jede
+                  Mannschaft ein Auswechselraum, in dem sich die Offiziellen,
+                   die Ergänzungsspieler und gegebenenfalls hinausgestellte
+                    Spieler aufhalten. Ein Wechsel zwischen Auswechselraum
+                     und Spielfeld ist jederzeit möglich, darf aber nur über
+                      die Auswechsellinie erfolgen, die von der Mittellinie
+                       aus jeweils 4,50 m lang ist.
+                
+
+                     
+        
+        
+            </div>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="headingSix">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix"
+                aria-expanded="true" aria-controls="collapseSix">
+                Wurftechniken
+            </button>
+        </h2>
+        <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                Insgesamt gibt es vier verschiedene Wurftechniken. 
+
+                1.Schlagwurf/Stemmwurf/Kernwurf: Der ballführende Spieler wirft
+                 aus dem Stand oder bremst seine Vorwärtsbewegung zum Stand und
+                  nutzt diesen Schwung zur Ballbeschleunigung.
+                2.Sprungwurf: Der Spieler springt, in der Regel mit Anlauf, in die
+                 Höhe und versucht, über die gegnerische Abwehr zu werfen.
+                3.Fallwurf: Der Fallwurf, der bevorzugt nahe der Torraumlinie
+                 angewendet wird, ist streng genommen ein Schlagwurf aus der
+                  Fallbewegung. Es gibt zwei Arten der Ausführung: frontal oder
+                   aus der Körperdrehung heraus.
+                4.Laufwurf: Der Laufwurf wird aus der Bewegung heraus wie der Schlagwurf
+                 ausgeführt, nur über das seitengleiche Bein. Der untypische
+                  Bewegungsablauf kann den Torwart überraschen.
+                Weiterhin gibt es spezielle Variationen gewisser Techniken:
+                
+                
+                Ein Heber beim Siebenmeterwurf:
+                Schlenzer (Hüftwurf),
+                Kempa-Trick (Flieger),
+                Dreher (Wuzzler),
+                Heber,
+                Abknickwurf,
+                Luftdreher,
+                            
+
+                     
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+        crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
+    -->
+    </body>
+
+</html>
